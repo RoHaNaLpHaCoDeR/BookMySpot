@@ -1,0 +1,26 @@
+#he1{
+    text-align: center;
+	padding: 10px;
+	border: 4px solid black;
+	position: sticky;
+    position: -webkit-sticky;
+    background-color: darkorchid;
+}
+#f1{
+    font-size: 30px;
+}
+.b{
+    background-color: rgb(68, 255, 30);
+    height: 60px;
+    width: 150px;
+}
+#b1{
+    transform: translate(300px,110px);
+}
+
+#b2{
+    transform: translate(400px,100px);
+}
+#b3{
+    transform: translate(500px,100px);
+}
