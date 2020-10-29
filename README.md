@@ -11,6 +11,8 @@
 ## Language or libraries used 
  * Javascript 
  * NodeJs
+ * Html
+ * Css
  
 ## Contact details
  * Email -
